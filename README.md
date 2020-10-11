@@ -1,5 +1,5 @@
 ## Live Preview 👇
-[Facebbok Messenger Clone](https://facebook-messenger-clone-ab8e1.web.app/)
+[Facebook Messenger Clone](https://facebook-messenger-clone-ab8e1.web.app/)
 
 ## Available Scripts
 
