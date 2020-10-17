@@ -1,7 +1,7 @@
 ## Live Preview 👇
 [Facebook Messenger Clone](https://facebook-messenger-clone-ab8e1.web.app/)
 
-## Available Scripts 1
+## Available Scripts
 
 In the project directory, you can run:
 
